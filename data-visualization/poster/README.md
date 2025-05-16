@@ -6,5 +6,5 @@ The goal was to combine visual aesthetics with data analysis, producing an engag
 
 Technologies: R (ggplot2), graphic design tools
 
-[](./poster.pdf)
+[Poster](./poster.pdf)
 
