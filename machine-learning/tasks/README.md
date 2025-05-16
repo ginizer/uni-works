@@ -1,1 +1,1 @@
-
+This folder contains shorter assignments completed for courses related to machine learning. The tasks involve implementing various machine learning models, analyzing their performance, and selecting the best-performing parameters.
