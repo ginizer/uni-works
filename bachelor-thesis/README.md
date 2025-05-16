@@ -6,4 +6,4 @@ This paper focuses on solving an ecological problem related to the co-occurrence
  measures will have the same or greater values that those examined. The paper presents
  methods for generating matrices according to a uniform probability distribution using
  the Metropolis-Hastings algorithm. Additionally, it details the technique of lumping
- Markov chains, which proves useful within the scope of the problem addressed in the paper
+ Markov chains, which proves useful within the scope of the problem addressed in the paper.
