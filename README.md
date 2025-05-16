@@ -1,5 +1,8 @@
-This repository contains a collection of projects, assignments, and notes completed during my studies in Mathematics and Data Analysis. It includes solutions to coursework as well as larger projects focused on machine learning, data analysis, statistics, applied mathematics, and programming.
-Technologies Used:
-- Python, R
-- Matlab
-- Latex for reports and presentation
+This repository is a curated collection of my projects, assignments, and coursework completed during my studies in **Mathematics and Data Analysis**. It includes both practical exercises and larger, more in-depth projects. 
+
+## 🛠 Technologies and Tools Used
+
+- **Programming languages**: Python, R, MATLAB  
+- **Libraries**: pandas, NumPy, scikit-learn, matplotlib, ggplot2
+- **Environments**: Jupyter Notebook, RStudio, MATLAB  
+- **Documentation**: LaTeX (for reports and presentations)
