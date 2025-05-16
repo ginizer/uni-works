@@ -2,11 +2,9 @@
 
 In this project, the trapezoidal rule was implemented to approximate the value of the integral
 
-\[
-\int_a^b \left( \sum_{k=1}^n a_k \cos(kx) \right) dx,
-\]
+∫ from a to b of (sum from k=1 to n of a_k * cos(kx)) dx,
 
-where the sum \(\sum_{k=1}^n a_k \cos(kx)\) is computed using the Goertzel algorithm.
+where the sum (∑ from k=1 to n of a_k * cos(kx)) is calculated using the Goertzel algorithm.
 
 The project demonstrates the application of numerical integration techniques combined with efficient computation of trigonometric sums.
 
